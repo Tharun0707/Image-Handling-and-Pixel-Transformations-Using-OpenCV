@@ -214,18 +214,22 @@ plt.show()
 ## Output:
 
 - **Read and Display an Image**
+
   <img width="529" height="418" alt="image" src="https://github.com/user-attachments/assets/86c98a66-8569-4d00-9e45-698a2e05831e" />
 
 
 - **Adjust Image Brightness**
+
   <img width="1105" height="281" alt="image" src="https://github.com/user-attachments/assets/7c89d6c4-3ac3-43cb-a931-cb04c080d897" />
 
 
 - **Modify Image Contrast**
+
   <img width="1182" height="298" alt="image" src="https://github.com/user-attachments/assets/620e14ef-9e80-4ff6-bb39-c04aa097b28b" />
 
 
 - **Generate Third Image Using Bitwise Operations**
+
   <img width="548" height="435" alt="image" src="https://github.com/user-attachments/assets/276799bd-25c3-4b24-b283-0615a139afc7" />
 
 
