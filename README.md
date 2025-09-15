@@ -213,17 +213,21 @@ plt.show()
 
 ## Output:
 
-- **Read and Display an Image**  
-  ![Original](image.png)
+- **Read and Display an Image**
+  <img width="529" height="418" alt="image" src="https://github.com/user-attachments/assets/853218a3-4b85-4cb3-a22e-a37edd794d4f" />
 
-- **Adjust Image Brightness**  
-  ![Brightness](image-1.png)
+
+- **Adjust Image Brightness**
+  <img width="1105" height="281" alt="image" src="https://github.com/user-attachments/assets/08140225-811e-4931-ba77-a2faa23c960b" />
+
 
 - **Modify Image Contrast**  
-  ![Contrast](image-2.png)
+  <img width="1182" height="298" alt="image" src="https://github.com/user-attachments/assets/495c08ec-c754-4ac7-aa61-5d3f704060d7" />
+
 
 - **Generate Third Image Using Bitwise Operations**  
-  ![Bitwise](image-3.png)
+  <img width="548" height="435" alt="image" src="https://github.com/user-attachments/assets/fb881dd1-bf18-40c0-a6b4-9779a3e46fa7" />
+
 
 
 ## Result:
